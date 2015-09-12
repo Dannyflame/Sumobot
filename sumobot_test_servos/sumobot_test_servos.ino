@@ -1,5 +1,6 @@
 /*
  * Sumobot Jr for ATX Script Kids
+ * Dannyflame's Changes
  */
  
  #include <Servo.h>
